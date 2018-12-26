@@ -93,6 +93,6 @@
             }
             Console.WriteLine($"Generación:{index++} - Mutación: {data} - Puntaje: {CalificarCadena(data)}");
             Console.ReadKey();
-        }
+            }
     }
 }
